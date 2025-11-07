@@ -1,0 +1,116 @@
+{
+    "last_updated": "2025-11-05T12:09:30.713019",
+    "total_books": 10,
+    "books": [
+        {
+            "title": "Python Programming",
+            "author": "John Doe",
+            "isbn": "978-0123456789",
+            "price": 49.99,
+            "available": true,
+            "type": "Book"
+        },
+        {
+            "title": "JavaScript Basics",
+            "author": "Jane Smith",
+            "isbn": "978-0987654321",
+            "price": 29.99,
+            "available": true,
+            "type": "EBook",
+            "file_size": 5.2,
+            "format": "PDF",
+            "download_count": 1
+        },
+        {
+            "title": "Data Structures",
+            "author": "Bob Wilson",
+            "isbn": "978-1122334455",
+            "price": 59.99,
+            "available": true,
+            "type": "PhysicalBook",
+            "pages": 450,
+            "weight": 800,
+            "condition": "Good"
+        },
+        {
+            "title": "The Great Novel",
+            "author": "Alice Brown",
+            "isbn": "978-5566778899",
+            "price": 39.99,
+            "available": true,
+            "type": "AudioBook",
+            "file_size": 250.5,
+            "format": "AUDIO",
+            "download_count": 0,
+            "duration": 12.5,
+            "narrator": "Narrator X"
+        },
+        {
+            "title": "Advanced Python",
+            "author": "Charlie Davis",
+            "isbn": "978-9988776655",
+            "price": 63.992,
+            "available": true,
+            "type": "PremiumBook",
+            "pages": 600,
+            "weight": 1200,
+            "condition": "New",
+            "edition": "2nd Edition"
+        },
+        {
+            "title": "Python Programming",
+            "author": "John Doe",
+            "isbn": "978-0123456789",
+            "price": 49.99,
+            "available": true,
+            "type": "Book"
+        },
+        {
+            "title": "JavaScript Basics",
+            "author": "Jane Smith",
+            "isbn": "978-0987654321",
+            "price": 29.99,
+            "available": true,
+            "type": "EBook",
+            "file_size": 5.2,
+            "format": "PDF",
+            "download_count": 1
+        },
+        {
+            "title": "Data Structures",
+            "author": "Bob Wilson",
+            "isbn": "978-1122334455",
+            "price": 59.99,
+            "available": true,
+            "type": "PhysicalBook",
+            "pages": 450,
+            "weight": 800,
+            "condition": "Good"
+        },
+        {
+            "title": "The Great Novel",
+            "author": "Alice Brown",
+            "isbn": "978-5566778899",
+            "price": 39.99,
+            "available": true,
+            "type": "AudioBook",
+            "file_size": 250.5,
+            "format": "AUDIO",
+            "download_count": 0,
+            "duration": 12.5,
+            "narrator": "Narrator X"
+        },
+        {
+            "title": "Advanced Python",
+            "author": "Charlie Davis",
+            "isbn": "978-9988776655",
+            "price": 63.992,
+            "available": true,
+            "type": "PremiumBook",
+            "pages": 600,
+            "weight": 1200,
+            "condition": "New",
+            "edition": "2nd Edition"
+        }
+    ]
+}
